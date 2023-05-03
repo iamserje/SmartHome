@@ -540,3 +540,85 @@ iframe {
 .footer__button {
    margin: 0 auto;
 }
+/* ===frame63-zayavki=== */
+.zayavki .greeting__title {
+   padding-top: 8.7rem;
+}
+.zayavki .greeting__text {
+   padding-bottom: 0rem;
+   margin-bottom: 8.7rem;
+}
+
+.smarthome__zayavki {
+   background: url(./images/fones/bolLitl.svg) 80rem 7rem no-repeat, url(./images/fones//bolVLitl.svg) 95rem 14rem no-repeat;
+}
+
+.back {
+   font-family: 'Oswald';
+}
+
+.ao-table{
+   display: table;
+   width: 100%;
+   font-weight: 700;
+   border-collapse: collapse;
+}
+
+.ao-tr{
+  display: table-row;
+}
+.ao-td{
+   display: table-cell;
+   text-align: center;
+   padding: 15px 0;
+   font-size: 3rem;
+   line-height: 3.6rem;
+   border: 1px solid #9786B4;
+}
+.ao-td a {
+   color: #000000;
+}
+
+.ao-td select {
+   width: 100%;
+   font-size: 3rem;
+   line-height: 3.6rem;
+   text-align: center;
+   border: none;
+   background: transparent;
+   appearance: none;
+}
+
+.ao-td select option {
+   font-size: 3rem;
+   line-height: 3.6rem;
+}
+
+.ao-td select:focus-visible {
+   outline: none;
+}
+.ao-tool > * {
+   height: 44px;
+   padding-bottom: 15px;
+}
+
+/* ===frame66-auth=== */
+
+.auth-table {
+   width: 65%;
+   margin: 0 auto;
+   margin-bottom: 7rem;
+}
+.auth-input {
+   width: 100%;
+   padding-left: 2rem;
+   border: none;
+   font-size: 3rem;
+   background-color: transparent;
+}
+.auth-input:focus-visible {
+   outline: none;
+}
+.auth-button {
+   margin: 0 auto;
+}
