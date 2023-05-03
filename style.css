@@ -483,7 +483,7 @@ iframe {
 }
 
 .contacts__input {
-   width: 31.3rem;
+   width: 30rem;
    margin-right: 5.2rem;
    padding-bottom: 1rem;
    font-size: 2.5rem;
@@ -504,7 +504,8 @@ iframe {
 
 .contacts__button {
    display: inline-block;
-   margin-left: 8rem;
+   margin-left: 7rem;
+   width: 28rem;
 }
 .footer {
    padding: 2.2rem 0 2.2rem;
@@ -523,6 +524,8 @@ iframe {
 .footer__button {
    margin: 0 auto;
 }
+
+
 /* ===frame63-zayavki=== */
 .zayavki .greeting__title {
    padding-top: 8.7rem;
@@ -583,6 +586,10 @@ iframe {
 .ao-tool > * {
    height: 44px;
    padding-bottom: 15px;
+}
+
+.change-table {
+   margin-bottom: 5rem;
 }
 
 /* ===frame66-auth=== */
